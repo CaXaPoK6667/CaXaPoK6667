@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @CaXaPoK6667
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Обо мне
+Я начинающий программист у меня отличные знания в Web разработки. В целом работал с сайтами, ботами. Также работаю с WPF проектами.
 
-<!---
-CaXaPoK6667/CaXaPoK6667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🛠 Технический стек
+
+- Языки C#/PHP/Python/HTML/css. 😄
+- MySQL, PostgreSQL, MongoDB, Sql.⚡
+- 
+
